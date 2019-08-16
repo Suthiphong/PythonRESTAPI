@@ -5,7 +5,7 @@ git clone
 
 pip install flask
 
-export FLASK_APP = Filename.py
+export FLASK_APP = main.py  
 export FLASK_ENV=development
 flask run
 
